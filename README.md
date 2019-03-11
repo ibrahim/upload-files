@@ -10,4 +10,5 @@ or
 
 `ghc -o sync sync.hs`
 
+usage "sync <FOLDER_PATH>"
 `./sync /tmp/`
